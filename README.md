@@ -1,2 +1,0 @@
-# ComfyUI-Linux
-ComfyUI-Linux
