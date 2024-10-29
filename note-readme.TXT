@@ -10,3 +10,8 @@ torchaudio==2.4.0+cu118
 Ubuntu 24.04.1 LTS
 with comfy manager
 with open sora
+
+fixes all dependency, production-ready deploy and use
+
+Hardware
+1 RTX3060 card
